@@ -1,0 +1,16 @@
+/Users/tobyslump/Documents/Learning C#/AdventOfCode/AOC Day 2/bin/Debug/net8.0/AOC Day 2
+/Users/tobyslump/Documents/Learning C#/AdventOfCode/AOC Day 2/bin/Debug/net8.0/AOC Day 2.deps.json
+/Users/tobyslump/Documents/Learning C#/AdventOfCode/AOC Day 2/bin/Debug/net8.0/AOC Day 2.runtimeconfig.json
+/Users/tobyslump/Documents/Learning C#/AdventOfCode/AOC Day 2/bin/Debug/net8.0/AOC Day 2.dll
+/Users/tobyslump/Documents/Learning C#/AdventOfCode/AOC Day 2/bin/Debug/net8.0/AOC Day 2.pdb
+/Users/tobyslump/Documents/Learning C#/AdventOfCode/AOC Day 2/obj/Debug/net8.0/AOC Day 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tobyslump/Documents/Learning C#/AdventOfCode/AOC Day 2/obj/Debug/net8.0/AOC Day 2.AssemblyInfoInputs.cache
+/Users/tobyslump/Documents/Learning C#/AdventOfCode/AOC Day 2/obj/Debug/net8.0/AOC Day 2.AssemblyInfo.cs
+/Users/tobyslump/Documents/Learning C#/AdventOfCode/AOC Day 2/obj/Debug/net8.0/AOC Day 2.csproj.CoreCompileInputs.cache
+/Users/tobyslump/Documents/Learning C#/AdventOfCode/AOC Day 2/obj/Debug/net8.0/AOC Day 2.sourcelink.json
+/Users/tobyslump/Documents/Learning C#/AdventOfCode/AOC Day 2/obj/Debug/net8.0/AOC Day 2.dll
+/Users/tobyslump/Documents/Learning C#/AdventOfCode/AOC Day 2/obj/Debug/net8.0/refint/AOC Day 2.dll
+/Users/tobyslump/Documents/Learning C#/AdventOfCode/AOC Day 2/obj/Debug/net8.0/AOC Day 2.pdb
+/Users/tobyslump/Documents/Learning C#/AdventOfCode/AOC Day 2/obj/Debug/net8.0/AOC Day 2.genruntimeconfig.cache
+/Users/tobyslump/Documents/Learning C#/AdventOfCode/AOC Day 2/obj/Debug/net8.0/ref/AOC Day 2.dll
+/Users/tobyslump/Documents/Learning C#/AdventOfCode/AOC Day 2/bin/Debug/net8.0/Day2Input.txt
