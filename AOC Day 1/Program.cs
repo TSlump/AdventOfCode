@@ -34,4 +34,16 @@ if (list1.Count == list2.Count)
     }
 }
 
-Console.WriteLine(listDifference);
+Console.WriteLine("list difference: " + listDifference);
+
+var listSimilarity = 0;
+
+for (var i = 0; i < list1.Count; i++)
+{
+    var locationId = list1[i];
+    var count = list2.Count(x => x == locationId);
+
+    listSimilarity += count * locationId;
+}
+
+Console.WriteLine("list similarity: " + listSimilarity);
